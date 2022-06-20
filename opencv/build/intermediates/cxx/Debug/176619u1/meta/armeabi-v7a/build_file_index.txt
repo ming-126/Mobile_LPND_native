@@ -1,0 +1,1 @@
+D:\LAB\Work\Android\LPND\Try_LPND_App\Mobile_LPND_native\opencv\libcxx_helper\CMakeLists.txt

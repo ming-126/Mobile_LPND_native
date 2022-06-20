@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 493251049
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\\android_gradle_build.json due to:",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -425500403
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 421565933
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -331019701
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1340586619
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\u0027",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1958781695
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\build\\intermediates\\cxx\\Debug\\2np2b356\\obj\\x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\build\\intermediates\\cxx\\Debug\\2np2b356\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -616498817
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DANDROID_NDK\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\SMJ\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\build\\intermediates\\cxx\\Debug\\2np2b356\\obj\\x86\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\build\\intermediates\\cxx\\Debug\\2np2b356\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BD:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1040284866
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\\compile_commands.json.bin normally",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1075576745
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1652932870
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\.cxx\\Debug\\2np2b356\\x86\\metadata_generation_command.txt",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -834397247
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\LAB\\Work\\Android\\LPND\\Try_LPND_App_backup\\Mobile_LPND_native_0607\\opencv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 285140214
+  }
+]
